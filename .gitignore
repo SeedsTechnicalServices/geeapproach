@@ -1,0 +1,13 @@
+# Live GCP service-account credential — never commit this
+gisproject-503012-b7a893527fcb.json
+*.json.key
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated outputs (self-contained HTML/GeoJSON written by the scripts)
+*_map.html
+*_forecast.html
+*_timeline_map.html
+*_grid.geojson
